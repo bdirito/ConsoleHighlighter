@@ -17,6 +17,6 @@
     "node": "*"
   },
   "scripts": {
-    "postinstall": "scripts/install.js"
+    "postinstall": "node ./scripts/install.js"
   }
 }
